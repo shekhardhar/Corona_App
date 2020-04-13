@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048393650955",
+    "firebase_url": "https://covid19app-56650.firebaseio.com",
+    "project_id": "covid19app-56650",
+    "storage_bucket": "covid19app-56650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048393650955:android:439d0101d84200580e080e",
+        "android_client_info": {
+          "package_name": "com.example.corona_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048393650955-4epa99vj6humo6eis8itpmm40lpefk75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.corona_app",
+            "certificate_hash": "f5b2063f8e79def9a8b8bff1219e54d5d6624086"
+          }
+        },
+        {
+          "client_id": "1048393650955-k0uuneenf1q6mf6ml1q54nf8ot24u02s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUdPHtD66cZfTWipKC1SdXeAdGVeIrsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048393650955-k0uuneenf1q6mf6ml1q54nf8ot24u02s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
